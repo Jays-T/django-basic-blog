@@ -1,0 +1,1 @@
+web: gunicorn angry-cat-blog.wsgi
